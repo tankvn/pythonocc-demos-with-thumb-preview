@@ -1,0 +1,4 @@
+python.exe F:/pythonocc-demos/examples/core_exception.py
+Exception successfully raised.
+
+Process finished with exit code 0
